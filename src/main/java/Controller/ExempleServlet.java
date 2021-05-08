@@ -1,4 +1,4 @@
-package sn.isitesttomcat;
+package Controller;
 import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
