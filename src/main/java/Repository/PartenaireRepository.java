@@ -1,8 +1,6 @@
 package Repository;
 
 import Model.Partenaire;
-
-
 import java.util.List;
 
 public interface PartenaireRepository {

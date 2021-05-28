@@ -9,6 +9,9 @@ public class Compte {
     public Compte() {
     }
 
+    public Compte(String numerCompte, String solde, Partenaire s) {
+    }
+
     public int getIdC() {
         return idC;
     }

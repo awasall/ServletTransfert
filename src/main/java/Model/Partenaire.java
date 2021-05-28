@@ -26,6 +26,9 @@ public class Partenaire {
         this.statut = statut;
     }
 
+    public Partenaire(String ninea, String prenom, String nom, String telephone, String email, String adresse, String raisonsociale, String statut) {
+    }
+
     public int getIdP() {
         return idP;
     }
